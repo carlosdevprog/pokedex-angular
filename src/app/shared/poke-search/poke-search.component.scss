@@ -1,0 +1,29 @@
+@import '../../../config-scss/variables.scss';
+
+:host {
+
+  form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 1.5rem 2rem;
+    border-radius: 1rem;
+
+    input {
+      width: 95%;
+      background: none;
+      border: none;
+      outline: none;
+      font-size: 2rem;
+      color: var(--white);
+    }
+
+    button {
+      background: none;
+      outline: none;
+      border: none;
+      cursor: pointer;
+    }
+  }
+}

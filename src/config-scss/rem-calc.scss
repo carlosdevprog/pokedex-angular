@@ -1,0 +1,6 @@
+// Função que transforma tudo para REM
+
+@function rem-calc($size) {
+  $value: ($size / 10);
+  @return #{$value}rem;
+}
