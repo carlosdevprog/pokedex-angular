@@ -31,8 +31,11 @@ A aplicação é a famosa pokédex. Ela lista os pokémons da primeira geração
 ```
 npm install -g @angular/cli
 
-#Após a instalação, você pode verificar se o Angular CLI foi instalado corretamente executando:
-ng --version
+# Após a instalação, você pode verificar se o Angular CLI foi instalado corretamente executando
+ng version
+
+# Demais comandos
+ng --help
 ```
 
 ```
