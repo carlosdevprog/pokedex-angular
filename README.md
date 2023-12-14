@@ -12,14 +12,14 @@ A aplicação é a famosa pokédex. Ela lista os pokémons da primeira geração
 
 ## 📦 Tecnologias usadas
 
-**Front-end**
+**Front-end:**
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 * ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Back-end / API**
+**Back-end / API:**
 * https://pokeapi.co/docs/v2
 
 ## ⚙️ Implantação em produção
@@ -28,6 +28,12 @@ A aplicação é a famosa pokédex. Ela lista os pokémons da primeira geração
 ## 🛠️ Como executar o projeto
 
 #### Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.8.
+```
+npm install -g @angular/cli
+
+#Após a instalação, você pode verificar se o Angular CLI foi instalado corretamente executando:
+ng --version
+```
 
 ```
 # clonar repositório
