@@ -26,6 +26,7 @@ A aplicação é a famosa pokédex. Ela lista os pokémons da primeira geração
 * ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 🛠️ Como executar o projeto
+#### Pré-requisitos: [Node.js / NPM ](https://nodejs.org/en) Versão recomendada.
 
 #### Esse projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 16.2.8.
 ```
