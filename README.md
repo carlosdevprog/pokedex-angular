@@ -4,7 +4,7 @@
 
 https://pokedex-angular-blond.vercel.app/
 
-A aplicação é a famosa pokédex. Ela lista os pokémons da primeira geração, ou seja, até o Mewtwo. Pode-se buscar o pokémon pelo nome e acessar seus status ao clicar na janela correspondente. Foi utilizado para buscar os dados a api da pokédex.
+A aplicação é a famosa pokédex. Ela lista os pokémons da primeira geração, ou seja, até o Mewtwo. Pode-se buscar o pokémon pelo nome e acessar seus status ao clicar na janela correspondente. Foi utilizada para buscar os dados a [PokéAPI/V2](https://pokeapi.co/docs/v2).
 
 ![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/pokedex-angular/Screenshot_1.png?raw=true)
 ![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/pokedex-angular/Screenshot_2.jpg?raw=true)
@@ -12,7 +12,7 @@ A aplicação é a famosa pokédex. Ela lista os pokémons da primeira geração
 
 ## 📦 Tecnologias usadas
 
-**Front-end:**
+**Front-end**
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
