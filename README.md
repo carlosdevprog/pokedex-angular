@@ -52,7 +52,7 @@ ng serve
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosdevprog/pokedex-angular/blob/master/LICENSE)
+Esse projeto está sob a licença MIT - acesse os detalhes [![Mit License](https://img.shields.io/badge/MIT-License-green?style=flat-square&labelColor=%233DA638&color=%23000000)](https://github.com/carlosdevprog/pokedex-angular/blob/master/LICENSE)
 
 ## 👷 Autor
 
