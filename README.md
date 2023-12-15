@@ -36,7 +36,7 @@ npm install -g @angular/cli
 ng version
 
 # Demais comandos
-ng --help
+ng help
 ```
 
 ```
